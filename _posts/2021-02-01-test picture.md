@@ -13,4 +13,4 @@ This is a picture to test it
 
 Another test
 
-![](/images/download.jpg)
+![](/images/download.jpg =400x)
