@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-02-01-second test today.md",
+            "file": "2021-02-01-Hello World!.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-02-01-second test today.md",
+                "file": "2021-02-01-Hello World!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-02-01-second test today.md"
+                "file": "2021-02-01-Hello World!.md"
               }
             }
           },
@@ -123,9 +123,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "2021-02-01-second test today.md",
     "2021-01-31-Testfile.md",
-    "2014-3-3-Hello-World.md",
-    "Untitled.md"
+    "2014-3-3-Hello-World.md"
   ]
 }
